@@ -1,4 +1,4 @@
-FROM node:21.6.1-alpine3.19
+FROM node:21.6.2-alpine3.19
 
 LABEL org.opencontainers.image.authors="Gordon Franke <info@nevalon.de>" \
   org.opencontainers.image.source="https://github.com/schoolm-de/docker-node"
