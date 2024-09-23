@@ -6,5 +6,5 @@ LABEL org.opencontainers.image.authors="Gordon Franke <info@nevalon.de>" \
 RUN apk add --no-cache git=2.45.2-r0 \
   \
   && npm install --location=global \
-    npm@10.8.1 \
+    npm@10.8.3 \
     webpack-bundle-analyzer@4.10.2
